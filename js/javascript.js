@@ -2,8 +2,8 @@
 const projectLink = document.getElementById("project-link");
 const projects = [
     {
-        title: "Inventory Manager",
-        description: "Robust Java application with MySQL for real-time stock control.",
+        title: "AUTOMATED ATTENDANCE & CLASS MANAGEMENT SYSTEM",
+        description: "Application that improves the management of attendance and grading..",
         image: "../images/inventory.png",
         link: "./project1.html"
     },
